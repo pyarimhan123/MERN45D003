@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+}
+.nav-logo{
+    width: 40%;
+    
+}
+.nav_list{
+    width: 60%;
+}
+.nav_list ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    cursor: pointer;
+
+}
+.nav_list ul li{
+    font-weight: 600;
+}
+.nav_list ul li:hover{
+    transition: all;
+    color: blue;
+   text-shadow: 3px 2px 10px rgb(91, 219, 91);
+   text-decoration:underline;
+  background-color: aquamarine;
+   
+}
+.nav-logo p span{
+    color: blue;
+}

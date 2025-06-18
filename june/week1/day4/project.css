@@ -1,9 +1,18 @@
 nav{
     display: flex;
+    width:100vw;
+    box-shadow: 8px 8px 10px 10px rgb(130, 204, 57);
+    
 }
 .nav-logo{
     width: 40%;
+    padding: left 40px; 
     
+}
+.nav-logo p{
+    font-size: 1.3rem;
+    font: weight 600px; 
+    color:blue;
 }
 .nav_list{
     width: 60%;

@@ -1,0 +1,11 @@
+fieldset{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    gap:1;
+}
+button{
+    padding: 5px;
+    border-radius: 3pc;
+    background-color: rgb(98, 98, 232);
+}
